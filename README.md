@@ -1,3 +1,5 @@
+### EDIT: The WAD is called "doom1.wad" but is ACTUALLY Ultimate DooM. I didn't change the name because otherwise I would have to edit more and more and I'm lazy.
+
 # Doom on GitHub Contribution Graph
 
 A high-performance port of Doom designed specifically to run on the GitHub contribution graph (53x39 resolution). Built with WebAssembly and DoomGeneric.
